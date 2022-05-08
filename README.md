@@ -39,7 +39,7 @@ As a user of the application,you will be able to :
 
 
 ## Live Link
-- Click this link to view the live application https://infosecmentor.github.io/Moringalandingpage/
+- Click this link to view the live application https://infosecmentor.github.io/Quick-movers-website/
 
 
 ## Technology  Used
