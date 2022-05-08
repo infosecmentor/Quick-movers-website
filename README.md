@@ -1,6 +1,6 @@
 # quick movers portfolio
 By Phares Muhambi
-##screenshot
+-[Screenshot] (#screenshot)
 
 ##table of content
 - [Description](#description)
