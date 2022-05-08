@@ -2,7 +2,7 @@
 By Phares Muhambi
 -[Screenshot] (#screenshot)
 
-[table of content] (#table of content)
+-[table of content] (#table of content)
 - [Description](#description)
  - [Features](#features)
  - [Behaviour Driven Development](#Behaviour-Driven-Development)
