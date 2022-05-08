@@ -1,4 +1,4 @@
-# moringa landing page
+# quick movers portfolio
 By Phares Muhambi
 ##screenshot
 
@@ -19,7 +19,7 @@ By Phares Muhambi
 ## Features
 As a user of the application,you will be able to :
 1. What quick movers does
-2. 
+2. Contact info of quick movers
 
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
